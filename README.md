@@ -8,4 +8,4 @@ This project is an upgrade of a web crawler from single-threaded to multi-thread
 4. How to implement concurrency with Java ForkJoinPool to speed up running time.
 
 # Acknowledgements
-I would like to thank the instructor of the course, Ghulam Abbas, for providing this comprehensive course in a clear way, and his quick response to questions.
+I would like to thank the instructor of the course, Dustin Hellstern from Udacity, for his concise and clear tutorial for the module - Advanced Java Programming Techniques of the course.
